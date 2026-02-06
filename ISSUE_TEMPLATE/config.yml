@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🌐 Website
+    url: https://soe.lagbase.com
+    about: Visit the Second Order Effects catalog
+  - name: 💬 Discussions
+    url: https://github.com/secondordereffects/secondordereffects.github.io/discussions
+    about: Ask questions or discuss entries
+  - name: 🐦 Twitter
+    url: https://x.com/lagaboratory
+    about: Follow us for updates
+  - name: 📧 Email
+    url: mailto:hello@lagbase.com
+    about: General questions

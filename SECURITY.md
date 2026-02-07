@@ -17,7 +17,7 @@ This is primarily a content project. Security concerns include:
 - Post about it on social media
 
 **Do:**
-- Email us at [hello@lagbase.com](mailto:hello@lagbase.com) with subject "SECURITY: SOE"
+- Email us at [security@lagbase.com](mailto:security@lagbase.com) with subject "SECURITY: SOE"
 - Include detailed steps to reproduce
 - Give us reasonable time to respond (48 hours)
 
@@ -33,5 +33,5 @@ We appreciate security researchers who help keep our projects safe.
 
 ---
 
-**Contact:** [hello@lagbase.com](mailto:hello@lagbase.com)
+**Contact:** [security@lagbase.com](mailto:security@lagbase.com)
 **Twitter:** [@lagaboratory](https://x.com/lagaboratory)

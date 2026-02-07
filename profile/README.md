@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>A rigorous, evidence-based catalog of hidden consequences in systems and decisions.</strong><br>
-  169 entries across 8 categories. Every claim quantified. Every source cited.
+  Evidence-based analyses across 8 categories. Every claim quantified. Every source cited.
 </p>
 
 <p align="center">
@@ -51,24 +51,25 @@ Every entry includes falsifiability criteria — what would prove it wrong.
 
 ## Categories
 
-| Category | Prefix | Entries | Examples |
-|----------|--------|---------|----------|
-| Technology | T | 30 | Kubernetes, microservices, monorepos, serverless |
-| AI & Automation | A | 25 | Copilot skill atrophy, AI content flood, code gen debt |
-| Markets | M | 21 | Index reflexivity, ZIRP zombies, freemium ceilings |
-| Policy | P | 22 | GDPR moats, rent control, Section 230, AI regulation |
-| Organizations | O | 21 | Agile bloat, layoff survivor syndrome, unlimited PTO |
-| Society | S | 20 | Social media loneliness, algorithmic radicalization |
-| Infrastructure | I | 15 | Cloud concentration, EV grid strain, data center water |
-| Science & Health | H | 15 | Antibiotic resistance, replication crisis, AI diagnosis |
+| Category | Prefix | Examples |
+|----------|--------|----------|
+| Technology | T | Kubernetes, microservices, monorepos, serverless |
+| AI & Automation | A | Copilot skill atrophy, AI content flood, code gen debt |
+| Markets | M | Index reflexivity, ZIRP zombies, freemium ceilings |
+| Policy | P | GDPR moats, rent control, Section 230, AI regulation |
+| Organizations | O | Agile bloat, layoff survivor syndrome, unlimited PTO |
+| Society | S | Social media loneliness, algorithmic radicalization |
+| Infrastructure | I | Cloud concentration, EV grid strain, data center water |
+| Science & Health | H | Antibiotic resistance, replication crisis, AI diagnosis |
 
 ---
 
-## Repository
+## Repositories
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| [`secondordereffects.github.io`](https://github.com/secondordereffects/secondordereffects.github.io) | Website + catalog (soe.lagbase.com) | 🟢 Active |
+| [`content`](https://github.com/secondordereffects/content) | Entry database (CC BY 4.0) — contribute here | 🟢 Active |
+| `secondordereffects.github.io` | Rendering engine (soe.lagbase.com) — private | 🟢 Active |
 
 ---
 
@@ -81,7 +82,7 @@ We welcome contributions that meet our quality bar:
 - ✅ Cites verifiable sources
 - ✅ States falsifiability criteria
 
-See our [Contributing Guide](https://github.com/secondordereffects/secondordereffects.github.io/blob/main/CONTRIBUTING.md) or open a [Discussion](https://github.com/secondordereffects/secondordereffects.github.io/discussions).
+See our [Contributing Guide](https://github.com/secondordereffects/.github/blob/main/CONTRIBUTING.md) or open a [Discussion](https://github.com/secondordereffects/content/discussions).
 
 ---
 

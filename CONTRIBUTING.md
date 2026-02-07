@@ -4,11 +4,12 @@ Thank you for your interest in contributing. This guide applies to all repositor
 
 ---
 
-## Repository
+## Repositories
 
 | Repository | What to Contribute |
 |------------|-------------------|
-| `secondordereffects.github.io` | New catalog entries, website features, bug fixes, accessibility, performance |
+| [`content`](https://github.com/secondordereffects/content) | New catalog entries, corrections, sources, cross-references |
+| `secondordereffects.github.io` | Website features, bug fixes, accessibility, performance |
 
 ---
 
@@ -47,15 +48,30 @@ N — Navigation    How to anticipate or mitigate
 
 ### Quick Start
 
+Content contributions go to the [content repo](https://github.com/secondordereffects/content):
+
 ```bash
-# Fork and clone
+# Fork and clone the content repo
+git clone https://github.com/YOUR_USERNAME/content.git
+cd content
+
+# Entries live in entries/<category>/<ID>/meta.json
+# See the content repo README for the full schema
+```
+
+For engine/website contributions:
+
+```bash
+# Fork and clone both repos
 git clone https://github.com/YOUR_USERNAME/secondordereffects.github.io.git
+git clone https://github.com/YOUR_USERNAME/content.git
+
+# Symlink content into engine
 cd secondordereffects.github.io
+ln -s ../content ./content
+
 npm install
 npm run dev
-
-# Catalog entries live in src/data/
-# Add or edit entries there
 ```
 
 ### Code Style
@@ -133,6 +149,6 @@ By contributing, you agree that your contributions will be licensed under:
 
 ## Questions?
 
-- **Discussions:** [GitHub Discussions](https://github.com/secondordereffects/secondordereffects.github.io/discussions)
+- **Discussions:** [GitHub Discussions](https://github.com/secondordereffects/content/discussions)
 - **Email:** [hello@lagbase.com](mailto:hello@lagbase.com)
 - **Twitter:** [@lagaboratory](https://x.com/lagaboratory)

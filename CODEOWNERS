@@ -1,15 +1,17 @@
 # CODEOWNERS - Defines who must review PRs for specific paths
 # https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
-# Default owner for everything
+# Default owner for everything in this org-level .github repo
 * @nkr-ops
-
-# Catalog entries require maintainer review
-/catalog/ @nkr-ops
-
-# Templates and framework docs
-/templates/ @nkr-ops
 
 # Core documentation
 README.md @nkr-ops
 CONTRIBUTING.md @nkr-ops
+SECURITY.md @nkr-ops
+CODE_OF_CONDUCT.md @nkr-ops
+
+# Org profile
+profile/ @nkr-ops
+
+# Issue templates
+ISSUE_TEMPLATE/ @nkr-ops

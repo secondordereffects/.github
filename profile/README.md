@@ -101,5 +101,5 @@ Content: CC BY 4.0 · Code: MIT
 ---
 
 <p align="center">
-  <sub>© 2026 Naveen Reddy · <a href="https://soe.lagbase.com">soe.lagbase.com</a> · <a href="https://x.com/lagaboratory">@lagaboratory</a></sub>
+  <sub>© 2026 Lagbase, Inc · <a href="https://soe.lagbase.com">soe.lagbase.com</a> · <a href="https://x.com/lagaboratory">@lagaboratory</a></sub>
 </p>
